@@ -8,7 +8,7 @@ This repository contains an analysis on sales using Pivot tables with Excel, Pow
 In this project, I performed the following analyses:
 
 - Analyzed customer and market performance using Pivot tables in Excel.
-- Identified the top quantity sold by AtliQ hardware.
+- Identified the top and bottom quantity sold by AtliQ hardware.
 - Utilized Power Pivot, Pivot Table, DAX, and data modeling techniques to perform the analysis.
 
 ## Tools Used
