@@ -42,9 +42,4 @@ The objective of this task is to generate reports that provide answers to the fo
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
-## Tools Used
-- Microsoft Excel
-- Power Pivot
-- Pivot Table
-- DAX (Data Analysis Expressions)
-- Data Modeling
+
